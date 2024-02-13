@@ -1,7 +1,7 @@
 .banner-container {
   color: white;
   object-fit: contain;
-  height: 448;
+  height: 448px;
 }
 
 .banner-content {
@@ -11,7 +11,7 @@
 }
 
 .banner-title {
-  font-size: 3rem;
+  font-size: 3r;
   font-weight: 800;
   padding-bottom: 0.3rem;
 }
